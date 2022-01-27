@@ -1,0 +1,10 @@
+# python #
+###################
+*ipynb_checkpoints*
+__pycache__
+*.pyc
+
+# html output files
+#######################
+*_COVID.html
+ipywidgets_COVID_files/*
