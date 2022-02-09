@@ -6,5 +6,5 @@ __pycache__
 
 # html output files
 #######################
-*_COVID.html
+#*_COVID.html
 ipywidgets_COVID_files/*
